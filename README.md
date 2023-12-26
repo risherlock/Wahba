@@ -16,7 +16,11 @@ Implementations of the major developments in 3D-attitude determination of spacec
 7. [Attitude Determination using Newton's Method on Riemannian Manifold (2015)](matlab/algorithms/yang_manifold2015.m)
 8. [FLAE: Fast Linear Quaternion Attitude Estimator Using Vector Observations (2017)](matlab/algorithms/flae_newton2017.m) (Newton's method)
 9. [FLAE: Fast Linear Quaternion Attitude Estimator Using Vector Observations (2017)](matlab/algorithms/flae_symbolic2017.m) (Symbolic method)
+10. [ESOQ, A Closed-Form Solution to the Wahba Problem (1997)](matlab/algorithms/esoq.m)
+11. [ESOQ-2 Single-Point Algorithm for Fast Optimal Spacecraft Attitude Determination (1997)](matlab/algorithms/esoq2.m)
 
-## todos
-1. ESOQ-2 Single-Point Algorithm for Fast Optimal Spacecraft Attitude Determination (1997)
-2. ESOQ, A Closed-Form Solution to the Wahba Problem (1997)
+## Todos
+1. Markley's 12 test conditions
+2. Shuster's method of sequential rotation
+3. Markley's correction on Shuster's code
+4. Handle quaternion double cover

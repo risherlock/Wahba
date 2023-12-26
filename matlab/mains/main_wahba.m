@@ -32,5 +32,5 @@ b = b + noise;
 % Display result
 fprintf('C_truth \n'); disp(C_truth);
 fprintf('\nC_hat \n'); disp(C_hat);
-fprintf('\nq_hat \n'); disp(q_truth);
+fprintf('\nq_truth \n'); disp(q_truth);
 fprintf('\nq_hat \n'); disp(q_hat);
